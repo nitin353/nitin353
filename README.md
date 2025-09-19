@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="2560" height="1440" alt="Black and Red Edgy Gaming Youtube Banner (1)" src="https://github.com/user-attachments/assets/46212f38-768e-412f-a326-120055011357" />
+  <img src="https://www.canva.com/design/DAGza3-lMWs/Af8A_e7cVvKK91cFQr_rNA/edit?utm_content=DAGza3-lMWs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 " alt="Nitin Nanda Banner"/>
 </p>
 
