@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://www.canva.com/design/DAGza3-lMWs/Af8A_e7cVvKK91cFQr_rNA/edit?utm_content=DAGza3-lMWs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-" alt="Nitin Nanda Banner"/>
-</p>
+<img src="https://raw.githubusercontent.com/nitin353/nitin353/main/Black%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner%20(1).png" alt="Banner" />
+
 
 # 👋 Namaste 🙏 I'm Nitin Nanda  
 
